@@ -1,0 +1,2 @@
+# quarantine_project
+The quarantine project is a PHP, HTML, JS and MySQL based market place which enables consumers to buy groceries directly from a variety of suppliers. The system is comprised out of a dedicated admin dashboard for suppliers to manage inventory and chat with customers and a customer interface which allows the end-user to browse through groceries personalized by the user location.
